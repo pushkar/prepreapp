@@ -1,1 +1,1 @@
-web: gunicorn peer.wsgi --log-file -
+web: gunicorn prepreapp.wsgi --log-file -
